@@ -1,0 +1,1 @@
+Microsoft Defender for Cloud Apps should have automation options using power apps for each single event rule.

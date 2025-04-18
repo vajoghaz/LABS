@@ -1,0 +1,2 @@
+Configure permission scopes for Microsoft Entra app registration using available OpenID Connect scopes. The are three scopes, email, offile_access, openID. The openID scope appears on the work account consent page as the sign you in permission.  The email scope gives the app access to a user's primary email address in the form of an email claim. The offline_access gives your app access to resources on behalf of a user.
+
